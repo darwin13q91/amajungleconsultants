@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/amajungle/static/css/main.e8f998a8.css",
-    "main.js": "/amajungle/static/js/main.023493cc.js",
-    "index.html": "/amajungle/index.html",
-    "main.e8f998a8.css.map": "/amajungle/static/css/main.e8f998a8.css.map",
-    "main.023493cc.js.map": "/amajungle/static/js/main.023493cc.js.map"
+    "main.css": "/amajungleconsultants/static/css/main.e8f998a8.css",
+    "main.js": "/amajungleconsultants/static/js/main.023493cc.js",
+    "index.html": "/amajungleconsultants/index.html",
+    "main.e8f998a8.css.map": "/amajungleconsultants/static/css/main.e8f998a8.css.map",
+    "main.023493cc.js.map": "/amajungleconsultants/static/js/main.023493cc.js.map"
   },
   "entrypoints": [
     "static/css/main.e8f998a8.css",
