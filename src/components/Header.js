@@ -17,7 +17,7 @@ function Header() {
   });
 
   return (
-    <animated.header className="header" style={logoProps}>
+    <animated.header className="header fixed" style={logoProps}>
       <nav className="nav" style={navProps}>
         <ul className="nav-list">
           <li className="nav-item">
